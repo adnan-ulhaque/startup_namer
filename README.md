@@ -15,3 +15,7 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 # startup_namer
+
+![image](https://user-images.githubusercontent.com/24445198/151296766-2f824040-b81e-48ef-831c-2df8da537f13.png)
+
+![image](https://user-images.githubusercontent.com/24445198/151296807-5aceac57-1cc3-4fe3-b53f-6188ef4e531c.png)
